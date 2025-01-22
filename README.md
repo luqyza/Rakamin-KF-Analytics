@@ -44,7 +44,7 @@ The consolidated analytical table integrates transaction details, product attrib
 
 This repository includes:
 
-- SQL Query: The SQL code used to process the data and create the analytical table is stored in the `BigQuery`.
+- SQL Query: The SQL code used to process the data and create the analytical table is stored in the `query`.
 
 - Dashboard: The performance dashboard in Google Looker Studio, which visualizes the results of the analysis, is stored as `Dashboard`. The live version can be accessed at the following link:
 [Kimia Farma Performance Dashboard](https://lookerstudio.google.com/s/gzx91N1egRM)
